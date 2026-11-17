@@ -1,19 +1,26 @@
 # Hi, I'm Ricardo Burgos 👋
 
-**AI Systems & Automation Engineer | Edge IoT Infrastructure | Python · PostgreSQL · Docker**  
-📍 Colombia · Building production autonomous agents, industrial telemetry pipelines, and resilient private VPN networks.
+**AI Engineer & Mechatronics Engineer | M.Sc. in Artificial Intelligence (in progress)**  
+📍 Popayán, Colombia · Building scalable AI/ML systems, autonomous agents, intelligent OCR/ETL pipelines, and resilient Edge IoT architectures.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardo--burgos--ingm-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-burgos-ingm/)
+[![Email](https://img.shields.io/badge/Email-drburgos123%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:drburgos123@gmail.com)
 
 ---
 
-### What I Build
-- 🤖 **Autonomous AI Agents & Cognitive Memory:** Multi-layer agent architectures combining **Hermes Agent**, **MCP (Model Context Protocol)**, **PostgreSQL + `pgvector`**, and hybrid retrieval to eliminate hallucinations and minimize token cost.
-- 🌐 **Edge IoT & Industrial Telemetry:** Real-time monitoring, remote actuator control, and private **WireGuard** / cellular router (`4G LTE`) infrastructure built to scale across thousands of distributed field sites.
-- ⚡ **Workflow & Ops Automation:** End-to-end event pipelines integrating **FastAPI**, **Docker**, **n8n**, **PostgreSQL/TimescaleDB**, and **Telegram** bot/voice interfaces.
+### About Me
+- 🎓 **Mechatronics Engineer** (15+ years across industrial/biomedical hardware & critical systems) pursuing an **M.Sc. in Artificial Intelligence** (VIU).
+- 🤖 **AI & Agentic Systems:** Designing end-to-end **Autonomous Agents (Hermes, OpenClaw, MCP)**, cognitive memory architectures (**PostgreSQL + `pgvector`**), and **ML / Deep Learning** solutions across operations and finance.
+- 📄 **Document AI, OCR & RPA:** Built automated document-validation and extraction pipelines using **Gemini**, **Google Cloud Vision**, **Document AI**, **Datalab/Chandra OCR**, **Make.com**, and **n8n**.
+- 📊 **Data Engineering & BI:** Engineered **Python (Pandas, NumPy) + PostgreSQL / Supabase** ETL pipelines that cut telecom alarm/report preparation time by **70%+** and delivery cycles by **50%**, paired with **Power BI** & predictive failure analytics.
+- 🌐 **Edge IoT & Private Networks:** Production telemetry, remote actuator control, and multi-site **WireGuard** / `4G LTE` router infrastructure (`Docker`, `Linux`, `GCP`, `Hostinger`).
 
 ---
 
 ### Core Stack
-`Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `Docker` · `Linux` · `WireGuard` · `MCP` · `Hermes Agent` · `OpenClaw` · `n8n`
+- **AI / ML / DL:** `Python` · `Scikit-learn` · `TensorFlow` · `Keras` · `Gemini API` · `Cloud Vision` · `Document AI` · `MCP` · `Hermes Agent` · `OpenClaw`
+- **Data & Databases:** `PostgreSQL` · `pgvector` · `TimescaleDB` · `Supabase` · `Pandas` · `NumPy` · `Power BI`
+- **Infra, Edge & Automation:** `Docker` · `Linux` · `WireGuard` · `FastAPI` · `n8n` · `Make.com` · `GCP` · `Arduino / IoT`
 
 ---
 
@@ -23,5 +30,5 @@
 ---
 
 ### Connect
-- 💼 Open to **AI Systems Engineering**, **Agentic Automation**, and **Edge/IoT Cloud Architecture** collaborations, roles, and consulting.
-- 📫 Email: `drburgos123@gmail.com`
+- 💼 Open to **Remote AI Engineering**, **Agentic Automation**, **ML/Data Pipelines**, and **Edge IoT Architecture** roles & consulting.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ricardo-burgos-ingm/) · 📫 `drburgos123@gmail.com`
