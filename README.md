@@ -17,12 +17,11 @@
 
 ---
 
-### Featured & Upcoming Projects
-- 🧠 **[AxonPG](https://github.com/ricardo2591/axonpg)** *(In Progress)* — Postgres-native cognitive memory engine (Graph + Hybrid Vector + Episodic + Foresight) for Hermes Agent & OpenClaw via MCP.
-- ⚙️ **[smart-workflow](https://github.com/ricardo2591/smart-workflow)** — Event-driven workflow automation engine.
+### Featured Project
+- 🧠 **AxonPG** *(In Active Development — Open-Source Release Soon)* — Postgres-native cognitive memory engine (Knowledge Graph + Hybrid Vector/BM25 + Episodic + Time-Bounded Foresights) for **Hermes Agent** and **OpenClaw** via **MCP**.
 
 ---
 
 ### Connect
-- 💼 Open to **AI Systems Engineering**, **Agentic Automation**, and **Edge/IoT Cloud Architecture** collaborations & consulting.
+- 💼 Open to **AI Systems Engineering**, **Agentic Automation**, and **Edge/IoT Cloud Architecture** collaborations, roles, and consulting.
 - 📫 Email: `drburgos123@gmail.com`
