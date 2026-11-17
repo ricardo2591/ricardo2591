@@ -1,7 +1,7 @@
 # Hi, I'm Ricardo Burgos 👋
 
 **AI Engineer & Mechatronics Engineer | M.Sc. in Artificial Intelligence (in progress)**  
-📍 Popayán, Colombia · Building scalable AI/ML systems, autonomous agents, intelligent OCR/ETL pipelines, and resilient Edge IoT architectures.
+📍 Cali, Colombia · Building scalable AI/ML systems, autonomous agents, intelligent OCR/ETL pipelines, and resilient Edge IoT architectures.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardo--burgos--ingm-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-burgos-ingm/)
 [![Email](https://img.shields.io/badge/Email-drburgos123%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:drburgos123@gmail.com)
